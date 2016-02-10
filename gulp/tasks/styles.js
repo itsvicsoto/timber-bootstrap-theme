@@ -6,7 +6,8 @@ var notify       = require('gulp-notify');
 var handleErrors = require('../util/handleErrors');
 
 var includePaths = [
-    'bower_components/foundation/scss',
+    // 'bower_components/foundation/scss',
+    'bower_components/bootstrap-sass/assets/stylesheets',
     'bower_components/bourbon/app/assets/stylesheets',
     'bower_components/font-awesome/scss'
 ];

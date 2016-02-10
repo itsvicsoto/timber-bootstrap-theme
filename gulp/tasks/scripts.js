@@ -16,7 +16,7 @@ var targetjsDir = 'js';
 // JS concat, strip debugging and minify
     gulp.task('scripts', function () {
         gulp.src([
-                bowerDir + '/foundation/js/foundation.min.js',
+                bowerDir + '/bootstrap-sass/assets/javascripts/bootstrap.min.js',
                 bowerDir + '/slick-carousel/slick/slick.min.js',
                 bowerDir + '/lightbox2/js/lightbox.min.js',
                 jsDir + '/app.js'

@@ -1,6 +1,6 @@
 /*
-Theme Name:         Underwood
-Theme URI:          https://github.com/jim-at-jibba/timber-foundation-theme
+Theme Name:         Underwood Bootstrap
+Theme URI:          git@github.com:itsvicsoto/timber-bootstrap-theme.git
 Description:        Underwood is a HTML5 responsive WordPress framework based on ZURB's Foundation using the Timer Library.
 Version:            0.0.1
 Author:             James Best
@@ -10,10 +10,10 @@ License:            MIT License
 License URI:        http://www.opensource.org/licenses/mit-license.php
 */
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
 
 	This stylesheet will not be loaded by default.
-	
+
 	The main stylesheet in css/main.css and
     scss/main.scss.
 
